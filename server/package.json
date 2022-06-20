@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@graphql-yoga/node": "^2.9.1",
+    "graphql": "^16.5.0",
+    "graphql-ws": "^5.9.0",
+    "ws": "^8.8.0"
+  }
+}
